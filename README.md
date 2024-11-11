@@ -1,4 +1,4 @@
-# Noviembre 05 - 12
+# Diciembre 05 - 12
 
 Para esta semana vamos a empezar por ejercicios muy simples y poco a poco iremos escalando en complejidad. Para dar por completado este ejercicio se ha de resolver todos los 
 ejercicios planteados a continuacion.
