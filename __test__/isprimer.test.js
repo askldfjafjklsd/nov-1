@@ -1,8 +1,8 @@
 const isPrime = require('../src/isprime')
 
 describe('calculateIsPrime', () => {
-test('el numero 7 debe ser primo',()=>{
-    expect(isPrime(7)).toBe( 'primo');
+test('the number 7 should be prime',()=>{
+    expect(isPrime(7)).toBe( 'prime');
 
 })
 

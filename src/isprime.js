@@ -19,7 +19,7 @@ function isPrime(number){
            if(Number.isInteger(divisionNumber)){
              return 'not prime';
            }
-          } return 'primo';
+          } return 'prime';
 }
 
 module.exports = isPrime;
